@@ -52,7 +52,7 @@ The core objective is to automate the creation of product descriptions from stru
 3. Set up your environment variables:
    Create a `.env` file in the root directory and add your API key:
    ```text
-   OPENAI_API_KEY=your_api_key_here
+   NEBIUS_TOKEN_FACTORY_API_KEY=your_api_key_here
    ```
 
 ### Running the Pipeline
